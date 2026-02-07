@@ -1,0 +1,2 @@
+montreal-forced-aligner
+num2words

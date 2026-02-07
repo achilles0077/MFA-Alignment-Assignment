@@ -1,0 +1,16 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
+
+# Virtual Environments (just in case)
+env/
+venv/
+ltrc_aligner/
+
+# IDE settings
+.vscode/
