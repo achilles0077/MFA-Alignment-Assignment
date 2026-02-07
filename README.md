@@ -81,8 +81,8 @@ After running the alignment, I manually checked the results in Praat to verify b
 ## 6. Repository Structure
 
 * `inputs/`: Contains the original audio files and transcripts organized by speaker.
-* `outputs_before/`: Baseline results—this folder holds the TextGrids generated *without* the G2P model or text cleanup (showing the initial errors and gaps).
-* `outputs_after/`: Final results—this contains the accurate TextGrids generated *after* applying the G2P model and normalization script.
+* `outputs_before/`: Baseline results—this folder holds the TextGrids generated *without* the G2P model.
+* `outputs_after/`: Final results—this contains the accurate TextGrids generated *after* applying the G2P model.
 * `scripts/`: The Python code used to fix numbers and abbreviations.
 * `requirements.txt`: The list of libraries needed to run the project.
 
